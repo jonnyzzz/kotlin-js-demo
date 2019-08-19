@@ -2,10 +2,6 @@ plugins {
   kotlin("js") version "1.3.50"
 }
 
-repositories {
-  mavenLocal()
-}
-
 kotlin {
   target {
     nodejs()
@@ -18,6 +14,9 @@ kotlin {
   }
 }
 
+repositories {
+  mavenLocal()
+}
 
 
 
