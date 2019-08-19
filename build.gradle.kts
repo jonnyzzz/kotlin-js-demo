@@ -4,6 +4,7 @@ plugins {
 
 kotlin {
   target {
+    useCommonJs()
     nodejs()
   }
 
