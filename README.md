@@ -1,2 +1,3 @@
-Kotin JS Demo Project
+## Kotlin JS Demo Project
 
+License MIT
