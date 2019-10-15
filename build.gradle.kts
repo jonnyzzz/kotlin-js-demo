@@ -1,5 +1,5 @@
 plugins {
-  kotlin("js") version "1.3.50"
+  kotlin("js") version "1.3.60-eap-23"
 }
 
 kotlin {
@@ -16,7 +16,7 @@ kotlin {
 }
 
 repositories {
-  mavenLocal()
+    mavenLocal()
 }
 
 
